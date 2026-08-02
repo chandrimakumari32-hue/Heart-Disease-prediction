@@ -4,7 +4,6 @@
 
 The Heart Disease Prediction System is a Machine Learning application developed using Python, Scikit-learn, and Streamlit. It predicts the likelihood of heart disease based on a patient's medical information, such as age, blood pressure, cholesterol level, and other clinical parameters. The application provides a prediction along with the probability of heart disease through an easy-to-use web interface.
 
-Disclaimer: This application is intended for educational purposes only and should not be used as a substitute for professional medical diagnosis or medical advice.
 
 ##  Dataset
 
@@ -42,7 +41,13 @@ The models were evaluated using:
 * Accuracy
 * Cross-validation
 * Training and testing performance
+##  Live Demo
+
+You can try the deployed application here:
+
+🔗 https://heart-prediction-model-x9b6o8mptfhkzu45murjyd.streamlit.app/
 
 ##  Disclaimer
 
 This project is created for educational and learning purposes only. It is not intended to provide medical diagnosis or replace professional medical advice.
+
