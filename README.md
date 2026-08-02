@@ -2,9 +2,9 @@
 
 ##  Project Overview
 
-This project uses machine learning classification algorithms to predict the presence of heart disease based on patient health-related features.
+The Heart Disease Prediction System is a Machine Learning application developed using Python, Scikit-learn, and Streamlit. It predicts the likelihood of heart disease based on a patient's medical information, such as age, blood pressure, cholesterol level, and other clinical parameters. The application provides a prediction along with the probability of heart disease through an easy-to-use web interface.
 
-The project includes data preprocessing, feature selection, model training, and evaluation of different machine learning models.
+Disclaimer: This application is intended for educational purposes only and should not be used as a substitute for professional medical diagnosis or medical advice.
 
 ##  Dataset
 
